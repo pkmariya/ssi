@@ -51,8 +51,8 @@ body {
 }
 
 #navmenu ul.sub2 {
-	margin-top: 0px;
-	margin-left: 125px;
+	top: 0px;
+	left: 125px;
 	display: block; 
 	position: absolute;	
 	width: 255px; 
@@ -112,8 +112,8 @@ body {
 	}
 	
 	#navmenu ul.sub1 {
-		margin-top: 0px;
-		margin-left: 125px;
+		top: 0px;
+		left: 125px;
 		display: block; 
 		position: absolute;	
 		width: 255px; 
