@@ -96,3 +96,28 @@ body {
 	color: purple; 
 }
 
+@media (max-width: 420px) {
+	#navmenu ul li {
+		float: left;
+		clear: both; 
+		position: relative;  
+		display: inline-block; 
+		margin-top: 5px; 
+	}
+	
+	#content {  
+		clear: both;
+		float: left;
+		margin-top: 95px; 
+	}
+	
+	#navmenu ul.sub1 {
+		top: 0px;
+		left: 125px;
+		display: block; 
+		position: absolute;	
+		width: 255px; 
+		font-size: 12px;
+	}
+}
+
